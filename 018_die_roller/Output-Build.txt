@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: 020_DZ, Configuration: Debug x64 ------
+1>main.cpp
+1>020_DZ.vcxproj -> C:\YandexDisk\WorksSrudyV2\Git_project\learning_c_plus_plus\x64\Debug\020_DZ.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 12:28 AM and took 00,786 seconds ==========

@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: 024_tic_tac_toe_board, Configuration: Debug x64 ------
+1>main.cpp
+1>024_tic_tac_toe_board.vcxproj -> C:\YandexDisk\WorksSrudyV2\Git_project\learning_c_plus_plus\x64\Debug\024_tic_tac_toe_board.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 11:38 PM and took 00,625 seconds ==========
